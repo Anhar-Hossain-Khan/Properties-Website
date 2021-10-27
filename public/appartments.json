@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Ground Floor",
+      "price": 250000,
+      "area": "1000 sft",
+      "description": " We are committed to providing services, details and  support from the start of your home transaction until the end.",
+      "img": "https://i.ibb.co/Np0829B/appartment1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "First Floor",
+      "price": 350000,
+      "area": "1200 sft",
+      "description": "We are committed to providing services, details and  support from the start of your home transaction until the end.",
+      "img":  "https://i.ibb.co/JCwKk9Q/appartment2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "2nd Floor",
+      "price": 450000,
+      "area": "1400 sft",
+      "description": "We are committed to providing services, details and  support from the start of your home transaction until the end.",
+      "img": "https://i.ibb.co/s984JRS/appartment3.jpg"
+    }
+  ]
+ 
+  
