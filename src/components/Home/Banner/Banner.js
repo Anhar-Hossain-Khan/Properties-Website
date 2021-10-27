@@ -23,7 +23,7 @@ const Banner = () => {
   <Carousel.Item interval={2000}>
     <img
       className="d-block w-100"
-      src={property3}
+      src={property2}
       alt="Second slide"
     />
     <Carousel.Caption>
@@ -34,7 +34,7 @@ const Banner = () => {
   <Carousel.Item interval={2000}>
     <img
       className="d-block w-100"
-      src={property2}
+      src={property3}
       alt="Third slide"
     />
     <Carousel.Caption>
