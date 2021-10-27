@@ -6,7 +6,7 @@ import './About.css'
 const About = () => {
     return (
         <div className="info-header">
-          <div class="info-top">
+          <div className="info-top">
             <h2>Why are you come with us?</h2>
           </div>
           <Row sm={12} lg={12} className="info-row">
